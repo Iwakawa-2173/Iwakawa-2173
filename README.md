@@ -66,8 +66,8 @@
 
 ### Немного статистики
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwakawa-2173)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwakawa-2173)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwakawa-2173)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwakawa-2173)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave&show_icons=true)
 
 ## ⚡ Зачем я вам в команде
 Если вдруг вы уговорили меня принять участие в вашем проекте, то я смогу помочь, примерно, следующим:
