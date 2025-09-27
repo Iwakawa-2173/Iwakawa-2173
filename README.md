@@ -18,6 +18,7 @@
 ![C++](icons/c++.svg)
 ![Java](icons/java.svg)
 ![Python](icons/python.svg)
+<img src="icons/pascal.png" width="28" height="28">
 
 ### Веб-разработка (в том числе и её языки)
 ![HTML5](icons/html.svg)
@@ -48,7 +49,7 @@
 ![Microsoft Access](icons/msaccess.svg)
 
 ### Графика
-![Adobe Photoshop](icons/)
+![Adobe Photoshop](icons/adobephotoshop.svg)
 
 ### С какими ОС приходилось сталкиваться
 ![Android](icons/android.svg)
