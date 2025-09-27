@@ -15,8 +15,7 @@
 # Без лишних предисловий - то, с чем приходилось работать (хотя бы чуть-чуть потрогать в плане учёбы)
 
 ### Языки программирования (без веба)
-
-<img src="icons/c++.svg">
+![C++](icons/c++.svg)
 ![Java](icons/java.svg)
 ![Python](icons/python.svg)
 <img src="icons/pascal.png" width="28" height="28">
