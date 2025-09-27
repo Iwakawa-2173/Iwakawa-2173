@@ -101,5 +101,8 @@ Here are some ideas to get you started:
 
 # 💬 Как связаться со мной
 Либо почта, либо телеграмм - на ваш выбор
-<a href="https://t.me/A_2173/" target="_blank"><img src="icons/Telegram_2019_Logo.svg" width="28" height="28"></a>
-<a href="iwakawauchu@gmail.com" target="_blank"><img src="icons/Gmail_icon_(2020).svg" width="28" height="28"></a>
+<br>
+<div align="center">
+  <a href="https://t.me/A_2173/" target="_blank"><img src="icons/Telegram_2019_Logo.svg" width="28" height="28"></a>
+  <a href="iwakawauchu@gmail.com" target="_blank"><img src="icons/Gmail_icon_(2020).svg" width="28" height="28"></a>
+</div>
