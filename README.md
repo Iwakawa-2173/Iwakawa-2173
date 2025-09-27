@@ -33,7 +33,7 @@
   <img src="icons/css.svg">
   <img src="icons/php.svg">
   <img src="icons/apache.svg">
-  <img src="(icons/bootstrap.svg">
+  <img src="icons/bootstrap.svg">
   <img src="icons/flask.svg">
   <img src="icons/jquery.svg">
   <img src="icons/npm.svg">
