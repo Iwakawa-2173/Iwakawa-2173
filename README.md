@@ -40,7 +40,7 @@
 
 ### Сети
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-<img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="30" height="30">
+<img src="https://avatars.githubusercontent.com/u/37024229?s=200&v=4" width="29" height="29">
 
 ### Microsoft Office
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
