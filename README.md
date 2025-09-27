@@ -1,6 +1,6 @@
 ![](https://github.com/Iwakawa-2173/Iwakawa-2173/blob/main/poster.gif) 
 
-
+<h1 align="center">Привет, мир, я <a href="https://t.me/A_2173/" target="_blank">Iwakawa-2173</a> 
 <!--
 **Iwakawa-2173/Iwakawa-2173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
