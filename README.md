@@ -21,7 +21,7 @@
 <img src="icons/pascal.png" width="28" height="28">
 <img src="icons/prolog.png" width="28" height="28">
 
-### Веб-разработка (в том числе и её языки)
+### Веб-разработка (её языки, фреймворки, библиотеки и инструменты)
 ![HTML5](icons/html.svg)
 ![JavaScript](icons/js.svg)
 ![CSS3](icons/css.svg)
