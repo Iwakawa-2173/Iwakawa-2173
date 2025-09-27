@@ -51,7 +51,7 @@
 ![Adobe Photoshop](icons/)
 
 ### С какими ОС приходилось сталкиваться
-![Android](icons/adobephotoshop.svg)
+![Android](icons/android.svg)
 ![Windows](icons/windows.svg)
 ![Ubuntu](icons/ubuntu.svg)
 ![Lubuntu](icons/lubuntu.svg)
