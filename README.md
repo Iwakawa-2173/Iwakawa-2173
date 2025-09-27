@@ -18,6 +18,7 @@
 ![C++](icons/c++.svg)
 ![Java](icons/java.svg)
 ![Python](icons/python.svg)
+![C#](icons/Logo_C_sharp.svg)
 <img src="icons/pascal.png" width="28" height="28">
 <img src="icons/prolog.png" width="28" height="28">
 
