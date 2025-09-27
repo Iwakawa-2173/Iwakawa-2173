@@ -64,7 +64,7 @@
 ![Perplexity](icons/perplexity.svg)
 ![ChatGPT](icons/chatgpt.svg)
 
-# Немного статистики
+## 📖 Немного статистики
 Может быть статистика и не очень хорошая, зато честная :D
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwakawa-2173&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
