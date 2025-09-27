@@ -114,4 +114,10 @@ Here are some ideas to get you started:
   <a href="https://iwakawauchu@gmail.com" target="_blank"><img src="icons/Gmail_icon_(2020).svg" width="28" height="28"></a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iwakawa-2173/Iwakawa-2173/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iwakawa-2173/Iwakawa-2173/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iwakawa-2173/Iwakawa-2173/output/pacman-contribution-graph.svg">
+</picture>
 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
