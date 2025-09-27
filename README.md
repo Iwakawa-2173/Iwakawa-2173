@@ -19,6 +19,7 @@
 ![Java](icons/java.svg)
 ![Python](icons/python.svg)
 <img src="icons/pascal.png" width="28" height="28">
+<img src="icons/prolog.png" width="28" height="28">
 
 ### Веб-разработка (в том числе и её языки)
 ![HTML5](icons/html.svg)
