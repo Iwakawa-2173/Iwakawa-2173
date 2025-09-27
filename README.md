@@ -45,6 +45,9 @@
 ![Tor](icons/tor.svg)
 <img src="icons/yggdrasil.png" width="28" height="28">
 
+### Языки для баз данных
+<img src="icons/sql.png" width="28" height="28">
+
 ### Microsoft Office
 ![Microsoft Word](icons/msword.svg)
 ![Microsoft Excel](icons/msexcel.svg)
