@@ -3,9 +3,7 @@
 </div>
 <h1 align="center">Привет мир, я <a href="https://t.me/A_2173/" target="_blank">Iwakawa-2173</a></h1>
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F68FF7&width=480&lines=Разработчик+самого+странного+ПО+в+мире!)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F68FF7&width=480&lines=Разработчик+самого+странного+ПО+в+мире!)](https://git.io/typing-svg)
 
 # Обо мне
 
