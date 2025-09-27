@@ -58,7 +58,7 @@
 ![Ubuntu](icons/ubuntu.svg)
 ![Lubuntu](icons/lubuntu.svg)
 ![Openwrt](icons/openwrt.svg)
-<img src="icons/TempleOS.jpg" width="28" height="28">
+<img src="icons/TempleOS.jpg" width="30" height="30">
 
 ### Нейросети (а почему бы и нет?)
 ![Perplexity](icons/perplexity.svg)
