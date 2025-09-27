@@ -20,45 +20,45 @@
 ![Python](icons/)
 
 ### Веб-разработка (в том числе и её языки)
-![HTML5](icons/)
-![JavaScript](icons/)
-![CSS3](icons/)
-![PHP](icons/)
-![Apache](icons/)
-![Bootstrap](icons/)
-![Flask](icons/)
-![jQuery](icons/)
-![NPM](icons/)
-![NodeJS](icons/)
+![HTML5](icons/html.svg)
+![JavaScript](icons/js.svg)
+![CSS3](icons/css.svg)
+![PHP](icons/php.svg)
+![Apache](icons/apache.svg)
+![Bootstrap](icons/bootstrap.svg)
+![Flask](icons/flask.svg)
+![jQuery](icons/jquery.svg)
+![NPM](icons/npm.svg)
+![NodeJS](icons/nodejs.svg)
 
 ### В каких IDE могу работать
-![IntelliJ IDEA](icons/)
-![Notepad++](icons/)
-![PhpStorm](icons/)
-![PyCharm](icons/)
-![Visual Studio Code](icons/)
+![IntelliJ IDEA](icons/itellegeidea.svg)
+![Notepad++](icons/notepad++.svg)
+![PhpStorm](icons/phpshtorm.svg)
+![PyCharm](icons/pycharm.svg)
+![Visual Studio Code](icons/vscode.svg)
 
 ### Сети
-![Tor](icons/)
-<img src="icons/" width="28" height="28">
+![Tor](icons/tor.svg)
+<img src="icons/yggdrasil.png" width="28" height="28">
 
 ### Microsoft Office
-![Microsoft Word](icons/)
-![Microsoft Excel](icons/)
-![Microsoft Access](icons/)
+![Microsoft Word](icons/msword.svg)
+![Microsoft Excel](icons/msexcel.svg)
+![Microsoft Access](icons/msaccess.svg)
 
 ### Графика
 ![Adobe Photoshop](icons/)
 
 ### С какими ОС приходилось сталкиваться
-![Android](icons/)
-![Windows](icons/)
-![Ubuntu](icons/)
-![Lubuntu](icons/)
-![Openwrt](icons/)
+![Android](icons/adobephotoshop.svg)
+![Windows](icons/windows.svg)
+![Ubuntu](icons/ubuntu.svg)
+![Lubuntu](icons/lubuntu.svg)
+![Openwrt](icons/openwrt.svg)
 
 ### Нейросети (а почему бы и нет?)
-![Perplexity](icons/)
+![Perplexity](icons/perplexity.svg)
 ![ChatGPT](icons/chatgpt.svg)
 
 ## ⚡ Зачем я вам в команде
