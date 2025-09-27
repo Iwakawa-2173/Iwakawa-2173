@@ -176,6 +176,6 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 P.S. На эту репу ушло 5 часов, если верить сообщениям о коммитах.
 
-P.P.S. За десять пачек сухариков и сет роллов сделаю вам такой же.
+P.P.S. За десять пачек сухариков и сет роллов и суши сделаю вам такой же.
 
 ![](https://komarev.com/ghpvc/?username=Iwakawa-2173)
