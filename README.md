@@ -64,6 +64,11 @@
 ![Perplexity](icons/perplexity.svg)
 ![ChatGPT](icons/chatgpt.svg)
 
+### Немного статистики
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwakawa-2173)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwakawa-2173)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡ Зачем я вам в команде
 Если вдруг вы уговорили меня принять участие в вашем проекте, то я смогу помочь, примерно, следующим:
 - Если задача мне очень интересна, то я могу по 12 часов в день работать над решением (если на то у меня будет свободное время и не будет обмороков)
@@ -107,3 +112,5 @@ Here are some ideas to get you started:
   <a href="https://t.me/A_2173/" target="_blank"><img src="icons/Telegram_2019_Logo.svg" width="28" height="28"></a>
   <a href="https://iwakawauchu@gmail.com" target="_blank"><img src="icons/Gmail_icon_(2020).svg" width="28" height="28"></a>
 </div>
+
+
