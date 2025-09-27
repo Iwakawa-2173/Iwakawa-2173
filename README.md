@@ -15,58 +15,76 @@
 # Без лишних предисловий - то, с чем приходилось работать (хотя бы чуть-чуть потрогать в плане учёбы)
 
 ### Языки программирования (без веба)
-![C++](icons/c++.svg)
-![Java](icons/java.svg)
-![Python](icons/python.svg)
-<img src="icons/Logo_C_sharp.svg" width="28" height="28">
-<img src="icons/pascal.png" width="28" height="28">
-<img src="icons/prolog.png" width="28" height="28">
+<div align="center">
+  <img src="icons/c++.svg">
+  <img src="icons/java.svg">
+  <img src="icons/python.svg">
+  <img src="icons/Logo_C_sharp.svg" width="28" height="28">
+  <img src="icons/pascal.png" width="28" height="28">
+  <img src="icons/prolog.png" width="28" height="28">
+</div>
 
 ### Веб-разработка (её языки, фреймворки, библиотеки и инструменты)
-![HTML5](icons/html.svg)
-![JavaScript](icons/js.svg)
-![CSS3](icons/css.svg)
-![PHP](icons/php.svg)
-![Apache](icons/apache.svg)
-![Bootstrap](icons/bootstrap.svg)
-![Flask](icons/flask.svg)
-![jQuery](icons/jquery.svg)
-![NPM](icons/npm.svg)
-![NodeJS](icons/nodejs.svg)
+<div align="center">
+  <img src="icons/html.svg">
+  <img src="icons/js.svg">
+  <img src="icons/css.svg">
+  <img src="icons/php.svg">
+  <img src="icons/apache.svg">
+  <img src="(icons/bootstrap.svg">
+  <img src="icons/flask.svg">
+  <img src="icons/jquery.svg">
+  <img src="icons/npm.svg">
+  <img src="icons/nodejs.svg">
+</div>
 
 ### В каких IDE могу работать
-![IntelliJ IDEA](icons/itellegeidea.svg)
-![Notepad++](icons/notepad++.svg)
-![PhpStorm](icons/phpshtorm.svg)
-![PyCharm](icons/pycharm.svg)
-![Visual Studio Code](icons/vscode.svg)
+<div align="center">
+  <img src="icons/itellegeidea.svg">
+  <img src="icons/notepad++.svg">
+  <img src="icons/phpshtorm.svg">
+  <img src="icons/pycharm.svg">
+  <img src="icons/vscode.svg">
+</div>
 
 ### Сети
-![Tor](icons/tor.svg)
-<img src="icons/yggdrasil.png" width="28" height="28">
+<div align="center">
+  <img src="icons/tor.svg">
+  <img src="icons/yggdrasil.png" width="28" height="28">
+</div>
 
 ### Языки для баз данных
-<img src="icons/sql.png" width="28" height="28">
+<div align="center">
+  <img src="icons/sql.png" width="28" height="28">
+</div>
 
 ### Microsoft Office
-![Microsoft Word](icons/msword.svg)
-![Microsoft Excel](icons/msexcel.svg)
-![Microsoft Access](icons/msaccess.svg)
+<div align="center">
+  <img src="icons/msword.svg">
+  <img src="icons/msexcel.svg">
+  <img src="icons/msaccess.svg">
+</div>
 
 ### Графика
-![Adobe Photoshop](icons/adobephotoshop.svg)
+<div align="center">
+  <img src="icons/adobephotoshop.svg">
+</div>
 
 ### С какими ОС приходилось сталкиваться
-![Android](icons/android.svg)
-![Windows](icons/windows.svg)
-![Ubuntu](icons/ubuntu.svg)
-![Lubuntu](icons/lubuntu.svg)
-![Openwrt](icons/openwrt.svg)
-<img src="icons/TempleOS.jpg" width="30" height="30">
+<div align="center">
+  <img src="icons/android.svg">
+  <img src="icons/windows.svg">
+  <img src="icons/ubuntu.svg">
+  <img src="icons/lubuntu.svg">
+  <img src="icons/openwrt.svg">
+  <img src="icons/TempleOS.jpg" width="30" height="30">
+</div>
 
 ### Нейросети (а почему бы и нет?)
-![Perplexity](icons/perplexity.svg)
-![ChatGPT](icons/chatgpt.svg)
+<div align="center">
+  <img src="icons/perplexity.svg">
+  <img src="icons/chatgpt.svg">
+</div>
 
 ## 📊 Немного статистики
 Может быть статистика и не очень хорошая, зато честная :D
