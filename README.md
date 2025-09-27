@@ -1,4 +1,5 @@
-![](https://github.com/Iwakawa-2173/Iwakawa-2173/main/poster.gif) 
+![](https://github.com/Iwakawa-2173/Iwakawa-2173/blob/main/poster.gif) 
+
 
 <!--
 **Iwakawa-2173/Iwakawa-2173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
