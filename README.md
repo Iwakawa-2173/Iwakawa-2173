@@ -113,7 +113,8 @@ Here are some ideas to get you started:
   <a href="https://t.me/A_2173/" target="_blank"><img src="icons/Telegram_2019_Logo.svg" width="28" height="28"></a>
   <a href="https://iwakawauchu@gmail.com" target="_blank"><img src="icons/Gmail_icon_(2020).svg" width="28" height="28"></a>
 </div>
-
+# 🏵️ Эта часть просто обязана была оказаться здесь
+Сделано через yml (нагло скопировано)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iwakawa-2173/Iwakawa-2173/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iwakawa-2173/Iwakawa-2173/output/pacman-contribution-graph.svg">
@@ -121,3 +122,7 @@ Here are some ideas to get you started:
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+# 😄 И посмеёмся напоследок - анекдот дня
+Можно подумать, будто всё, что выше, не является смешным...
+![Jokes Card](https://readme-jokes.vercel.app/api)
