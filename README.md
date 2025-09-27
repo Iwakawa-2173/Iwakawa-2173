@@ -124,5 +124,7 @@ Here are some ideas to get you started:
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 # 😄 И посмеёмся напоследок - анекдот дня
+
 Можно подумать, будто всё, что выше, не является смешным...
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
