@@ -79,6 +79,7 @@
   <img src="icons/ubuntu.svg">
   <img src="icons/lubuntu.svg">
   <img src="icons/openwrt.svg">
+  <img src="icons/Debian.png" width="30" height="30">
   <img src="icons/TempleOS.jpg" width="30" height="30">
 </div>
 
